@@ -1,0 +1,17 @@
+{
+  "name": "jquery-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "yqt",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
