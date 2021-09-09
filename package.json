@@ -10,8 +10,5 @@
     "jquery"
   ],
   "author": "yqt",
-  "license": "ISC",
-  "dependencies": {
-    "jquery": "^3.6.0"
-  }
+  "license": "ISC"
 }
